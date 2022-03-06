@@ -7,15 +7,7 @@
     <style>
         h1{
             text-align: center;
-        }
-        table tr td, table tr th{
-            padding: 15px 20px;
-            text-align: center;
-        }
-        table{
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
+
     </style>
 </head>
 <body>

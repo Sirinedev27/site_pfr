@@ -48,11 +48,11 @@ nav>ul>li>a{
     width: 1300px;
 }
 .presentation_bloc{
-    color:white;
+    color:rgb(255, 255, 255);
     font-size: 40px;
     font-weight: bold;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.568);
+    background-color: rgba(19, 19, 19, 0.342);
     border-radius: 10px;
     width: 400px;
     padding: 40px;
@@ -71,6 +71,9 @@ nav>ul>li>a{
 
 h1{
     text-align: center;
+    color: #bd3e03;
+    text-decoration: underline;
+
 }
 
 /* FOOTER */
@@ -105,3 +108,29 @@ footer a{
 footer p{
     text-align: center;
 }
+
+.textaccess, img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.textaccess1{
+    text-decoration: underline;
+    font-size: large;
+    font-weight: bold;
+    color: #110a52;
+  
+}
+
+h3{
+    color: #110a52;
+    text-decoration: underline;
+
+}
+
+h4{
+    color: #322988;
+    text-decoration: underline;
+
+}
+
+

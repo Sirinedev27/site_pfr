@@ -15,8 +15,8 @@
             <div class="contact">
                 <ul>
                     <li><strong><h2>Nous contacter</h2></strong></li>
-                    <li>contact@cdg.com</li>
-                    <li><h3>39 50</h3></li>
+                    <li>contact@aeroportcdg.com</li>
+                    <li><h2>39 50</h2></li>
 
                 </ul>
             </div>

@@ -3,20 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Listes des logements disponibles</title>
-    <style>
-        h1{
-            text-align: center;
-        }
-        table tr td, table tr th{
-            padding: 15px 20px;
-            text-align: center;
-        }
-        table{
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-    </style>
+    <title>Nos Vols</title>
+
 </head>
 <body>
     <!-- ATTENTION barre de navigation -->

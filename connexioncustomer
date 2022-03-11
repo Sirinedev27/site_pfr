@@ -8,7 +8,8 @@
 
         <div id="container">
             <!-- zone de connexion -->
-            <h1>HELLO</h1>
+
+            <p>HELLO</p>
             
             <form action="verification.php" method="POST">
                 <h1>Connexion client</h1>

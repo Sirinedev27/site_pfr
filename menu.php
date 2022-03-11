@@ -11,6 +11,7 @@
     <div class="presentation">    
         <div class="search">
             <button class="connect">Se Connecter</button>
+            
             <input type="text"><button>Rechercher</button>
         </div>
         
